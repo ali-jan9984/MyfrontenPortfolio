@@ -1,0 +1,9 @@
+@import "./Varse.css";
+
+.App{
+    background:black;
+    width: 100%;
+    overflow: hidden;
+    color: rgb(255, 255, 255);
+    height: auto;   
+}
